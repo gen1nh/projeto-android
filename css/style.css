@@ -40,7 +40,7 @@ nav {
   font-weight: 600;
   text-transform: uppercase;
   text-align: center;
-  padding: 12px;
+  padding: 20px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   position: relative;
   z-index: 2;
@@ -50,12 +50,13 @@ nav {
 nav a {
   color: var(--cor6);
   text-decoration: none;
-  padding: 16px;
+  padding: 20px;
 }
 
 nav a:hover {
   text-decoration: underline;
   background-color: #2fa866;
+  padding: 16px 20px 16px 20px;
   border-radius: 4px;
 
 }
